@@ -1,1 +1,1 @@
-# Mini-game-VanilaJS
+# Board-Of-Colors-VanilaJS
